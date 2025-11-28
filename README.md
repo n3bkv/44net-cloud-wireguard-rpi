@@ -117,9 +117,15 @@ MIT License © 2025 [n3bkv](https://github.com/n3bkv)
 
 Pull requests are welcome!  
 
+---
+
+## Support This Project
+
+If you find this useful, star ⭐ the repo! It helps others discover it.
 
 ---
 
 **73, N3BKV**  
 Dave  
+https://hamradiohacks.blogspot.com
 https://hamradiohacks.n3bkv.com  
